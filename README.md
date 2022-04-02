@@ -1,6 +1,6 @@
 # WcamPhish
 Grab cam shots from target's phone front camera or PC webcam just sending a link.
-
+![WcamPhish](https://github.com/Tanmay-Tiwaricyber/WcamPhish/blob/main/screenshot.png)
 # What is WcamPhish?
 <p>WcamPhish is techniques to take cam shots of target's phone front camera or PC webcam. WcamPhish Hosts a fake website on in built PHP server and uses ngrok & serveo to generate a link which we will forward to the target, which can be used on over internet. website asks for camera permission and if the target allows it, this tool grab camshots of target's device</p>
 
